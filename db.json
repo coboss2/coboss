@@ -1,6 +1,6 @@
 {
   "salogdata": [
-    { "id": 12345, "containernumbers": 23456,"vesselIMO": 54352 ,"POD":"7-AUG-2019" },
+    { "id": 12345, "containernumbers": 23456,"vesselIMO": 54352 ,"POD":"7-AUG-2019","departuredate":"15-AUG-2019" },
     { "id": 200, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
