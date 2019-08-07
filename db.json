@@ -3,12 +3,5 @@
     { "id": 12345, "containernumbers": 23456,"vesselIMO": 54352 ,"pod":"7-AUG-2019","departuredate":"15-AUG-2019" },
     { "id": 56789, "containernumbers": 65432,"vesselIMO": 78565 ,"pod":"17-AUG-2019","departuredate":"20-AUG-2019"  },
     { "id": 98765, "containernumbers": 369852,"vesselIMO": 25852 ,"pod":"27-AUG-2019","departuredate":"25-AUG-2019" }
-  ],
-  "ujjwal": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "koti": {
-    "name": "typicode"
-  }
+  ]
 }
