@@ -1,7 +1,28 @@
 {
-  "salogdata": [
-    { "id": 12345, "containernumbers": 23456,"vesselIMO": 54352 ,"pod":"7-AUG-2019","departuredate":"15-AUG-2019" },
-    { "id": 56789, "containernumbers": 65432,"vesselIMO": 78565 ,"pod":"17-AUG-2019","departuredate":"20-AUG-2019"  },
-    { "id": 98765, "containernumbers": 369852,"vesselIMO": 25852 ,"pod":"27-AUG-2019","departuredate":"25-AUG-2019" }
-  ]
+	"posts": [{
+			"containerNos": "ISO 6346",
+			"vesselIMO": "ALKIRA",
+			"pod": "DEAAC",
+			"depatureDate": "2019-07-25",
+			"phoneNo": "4956434567897",
+			"id":1
+
+		}, {
+			"containerNos": "ISO 6346,ISO 5792",
+			"vesselIMO": "HALIOTIS",
+			"pod": "DE",
+			"depatureDate": "2019-08-01",
+			"phoneNo": "6056434567897",
+			"id":2
+		}, {
+			"containerNos": "ISO 6346,ISO 5792,ISO 6444",
+			"vesselIMO": "MJOLNIR",
+			"pod": "INBOM1",
+			"depatureDate":"2019-08-05",
+			"phoneNo": "756434567897",
+			"id":3
+
+		}
+	]
+
 }
